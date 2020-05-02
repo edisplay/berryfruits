@@ -1,1 +1,2 @@
-Berries are red.
+Strawberries are red.
+Blueberries are blue.
